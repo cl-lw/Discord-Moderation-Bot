@@ -1,0 +1,36 @@
+{
+  "//1": "Discord bot altyapı!",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "Discord hazır altyapı",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Glitch Discord Botu.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "common-tags": "^1.8.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "figlet": "^1.5.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.2.3",
+    "os": "^0.1.2",
+    "util.js": "^0.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
