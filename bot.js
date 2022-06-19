@@ -84,7 +84,7 @@ client.unload = command => {
 };
 
 client.on('ready', () => {
-    client.user.setActivity(`.Wéwwys,BestKnife ❤ MoonArmy`) 
+    client.user.setActivity(`!!yardım ❤ Moon Bot`) 
     console.log(`${client.user.tag} isimli bot başarıyla şu an aktifleştirildi!`);
 
     
