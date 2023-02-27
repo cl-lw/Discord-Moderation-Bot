@@ -10,8 +10,8 @@ node bot.js
 
 
 
+![1](https://user-images.githubusercontent.com/68690911/221561156-e37fcd9b-7426-4905-94c3-340997b0c0b4.PNG)
 
-![1](https://user-images.githubusercontent.com/68690911/221560794-b9aab62f-7150-44f1-9eb9-726386cc7dd4.PNG)
 ![2](https://user-images.githubusercontent.com/68690911/221560801-8cd23941-b1da-463f-88f0-e808205d5190.PNG)
 ![3](https://user-images.githubusercontent.com/68690911/221560813-7716f435-ae4e-4cb2-b5c2-d741264cb04f.PNG)
 ![4](https://user-images.githubusercontent.com/68690911/221560819-7ac2f9fa-9db1-44ef-b4f7-50e15a94cf37.PNG)
