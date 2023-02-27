@@ -5,7 +5,7 @@
 ** HAVE FUN! **
 
 npm i
-node bot.js
+          node bot.js
 
 
 
